@@ -2,9 +2,10 @@
   "name": "git-extension-pack-0x01code",
   "displayName": "Git Extension Pack for 0x01code",
   "description": "My Git Extension Pack for 0x01code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/0x01code/git-extension-pack",
   "publisher": "0x01code",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.98.0"
   },
