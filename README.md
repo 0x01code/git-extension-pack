@@ -1,4 +1,4 @@
-# Git Pack README
+# Git Extension Pack README
 
 ## Working with Markdown
 
