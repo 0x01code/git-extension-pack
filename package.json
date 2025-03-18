@@ -1,7 +1,7 @@
 {
   "name": "git-packs",
-  "displayName": "Git Extension Pack",
-  "description": "My Git Extension Pack",
+  "displayName": "Git Extension Packs",
+  "description": "My Git Extension Packs",
   "version": "0.0.1",
   "repository": "https://github.com/0x01code/git-extension-pack",
   "publisher": "0x01code",
