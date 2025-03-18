@@ -4,6 +4,7 @@
   "description": "My Git Extension Pack",
   "version": "0.0.1",
   "repository": "https://github.com/0x01code/git-extension-pack",
+  "publisher": "0x01code",
   "engines": {
     "vscode": "^1.98.0"
   },
